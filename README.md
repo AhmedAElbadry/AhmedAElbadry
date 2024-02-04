@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AhmedAElbadry
-- 👀 I’m interested in ...coding in general 
-- 🌱 I’m currently learning ... computer science 
-- 💞️ I’m looking to collaborate on ...x
-- 📫 How to reach me ...**********
+- 👀 I’m interested in ...coding and problem solving  
+- 🌱 I’m currently learning ... computer science and artificial intelligence
 
 <!---
 AhmedAElbadry/AhmedAElbadry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
